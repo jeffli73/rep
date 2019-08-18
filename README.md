@@ -1,6 +1,8 @@
 # rep
 Second
-Third
+3rd
 Forth
 Fifth
-Sixth
+6th
+7th
+8th
